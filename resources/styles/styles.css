@@ -11,3 +11,28 @@ img {
 h2 {
   color: #000000;
 }
+
+#personalBackground {
+  background-color: bisque;
+  padding: auto;
+}
+
+#experience {
+  background-color: azure;
+  padding: auto;
+}
+
+#programmingLanguages {
+  background-color: bisque;
+  padding: auto;
+}
+
+#achievements {
+  background-color: azure;
+  padding: auto;
+}
+
+#games {
+  background-color: bisque;
+  padding: auto;
+}
